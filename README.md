@@ -1,5 +1,5 @@
 # Whitepapers
-This repo will let the public read the whitepapers of all the Magic tokens.
+To store the whitepapers of all Magic tokens.
 
 Homepage: https://magiccrypto.github.io/
 
